@@ -1,3 +1,9 @@
 # MHCBinding
-A project that cleans and analyses the IEDB.org database and trains MHCFlurry Deep network on multiple manipulated versions of the IEDB to increase performance
-Th IEDB database holds the binding affinity (Kd, EC50 etc.) of MHC molecules and immune epitopes
+The project is aiming to improve the prediction of MHC-I biniding affinity to immune epitopes 
+by cleaning and analysing the IEDB.org DB and training the results using
+MHCFlurry deep learning network on multiple manipulated versions 
+of the IEDB.
+
+The IEDB database holds the binding affinity (Kd, EC50 etc.) of MHC molecules and immune epitopes
+
+The project review and outcomes can be found in the final paper attached in the repository.
